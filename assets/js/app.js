@@ -1,5 +1,5 @@
 const API_URL =
-   "https://TU-PROYECTO.vercel.app/api/chat";
+   "https://1-2-aplicaciones-web-gck5abzx6-derek-alejandro-tic.vercel.app/api/chat";
 
 const form = document.getElementById("chatForm");
 const input = document.getElementById("messageInput");
